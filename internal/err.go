@@ -17,7 +17,6 @@ package internal
 
 import (
 	"fmt"
-
 	"github.com/amzn/ion-go/ion"
 )
 
